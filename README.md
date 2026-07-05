@@ -10,7 +10,7 @@ Read the full write-up on Substack: \[https://vatsaladagar.substack.com/]
 
 This project tests whether Spain's sovereign bond spread reacted to the 2013 renewable energy subsidy reforms that later triggered a wave of ICSID arbitration awards against the Spanish state, using daily Spain and Germany 10-year government bond yields (June 2013–January 2014).
 
-The underlying question: do bond markets and arbitration tribunals price the same underlying government credibility risk — or are they pricing two genuinely different things? Bond markets price diffuse, aggregate risk across all of a government's obligations, continuously, across thousands of anonymous traders. Arbitration tribunals price a specific, contractual breach against a specific, named investor, adjudicated after the fact by three arbitrators applying a treaty standard. Spain's 2013 reforms — arising from the same fiscal crisis that motivated Draghi's "Whatever It Takes" speech — offer a natural experiment for comparing the two.
+The underlying question: do bond markets and arbitration tribunals price the same underlying government credibility risk - or are they pricing two genuinely different things? Bond markets price diffuse, aggregate risk across all of a government's obligations, continuously, across thousands of anonymous traders. Arbitration tribunals price a specific, contractual breach against a specific, named investor, adjudicated after the fact by three arbitrators applying a treaty standard. Spain's 2013 reforms - arising from the same fiscal crisis that motivated Draghi's "Whatever It Takes" speech - offer a natural experiment for comparing the two.
 
 Three tests are run:
 
@@ -91,6 +91,8 @@ Note: Eiser's figure reflects the 2025 re-award (€260m) after the original 201
 Vatsala Dagar
 
 📝 Substack: [https://vatsaladagar.substack.com/](https://vatsaladagar.substack.com/)
+
 🐙 GitHub: [https://github.com/vatsaladagar](https://github.com/vatsaladagar)
+
 💼 LinkedIn: [www.linkedin.com/in/vatsaladagar](https://www.linkedin.com/in/vatsaladagar)
 
